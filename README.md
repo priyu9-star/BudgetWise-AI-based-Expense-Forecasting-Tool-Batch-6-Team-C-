@@ -97,7 +97,17 @@ Run the notebook; a public URL is generated
 Upload your CSV file or add manual expenses
 Navigate the Expense Tracker, Prediction, and Expense Input tabs
 
-License
+## License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+This project is **proprietary**. Usage of this code is **restricted** to the following team members only:
+
+- Kavya Sampathirao (kavs14345@gmail.com)  
+- Kokila M (kokilakoki3376@gmail.com)  
+- Nandi Mangalam Geervani (geervaninandimangalam26@gmail.com)  
+- Poolasetty Chandana (chandana334411@gmail.com)  
+- Pratyasha Basak (pratyasha.basak17@gmail.com)  
+- Priyanshi Jayant (priyanshijayant729@gmail.com)  
+- Pulugrutha Sai Tejaswini (saitejaswini389@gmail.com)  
+
+For full license details, see the [LICENSE](./LICENSE) file.
+
