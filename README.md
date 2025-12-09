@@ -3,7 +3,7 @@ Overview
 
 SpendGenie is an intelligent personal expense tracking system designed to help users analyze, categorize, and predict their expenses. It integrates data processing, visualization, and predictive analytics into a single, user-friendly web interface.
 
-<p align="center"> <img src="images/spendgenie_dashboard.png" alt="SpendGenie Dashboard" width="700"/> </p>
+<p align="center"> <img src="assets/images/dashboard.png" alt="SpendGenie Dashboard" width="700"/> </p>
 
 Key Highlights:
 
