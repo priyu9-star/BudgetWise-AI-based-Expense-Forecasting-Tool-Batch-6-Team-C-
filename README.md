@@ -3,7 +3,7 @@ Overview
 
 SpendGenie is an intelligent personal expense tracking system designed to help users analyze, categorize, and predict their expenses. It integrates data processing, visualization, and predictive analytics into a single, user-friendly web interface.
 
-<p align="center"> <img src="assets/images/dashboard.png" alt="SpendGenie Dashboard" width="700"/> </p>
+<p align="center"> <img src="/assets/images/dashboard.png" alt="SpendGenie Dashboard" width="700"/> </p>
 
 Key Highlights:
 
@@ -32,7 +32,6 @@ Architecture & Workflow
 Conceptual Flow
 CSV Upload / Manual Entry → Data Normalization → Category Aggregation → Display Totals
                                                → Average Calculation → Predictive Estimate
-<p align="center"> <img src="images/spendgenie_flowchart.png" alt="Flowchart" width="600"/> </p>
 
 Technical Architecture
 
@@ -47,13 +46,13 @@ Features
 Upload CSV with item/category, price, date
 Automatically detect and normalize categories
 Time-based filtering: daily, weekly, monthly, or custom ranges
-<p align="center"> <img src="images/expense_tracker.png" alt="Expense Tracker" width="600"/> </p>
+<p align="center"> <img src="/assets/images/upload.png" alt="Flowchart" width="600"/> </p>
 
 2. Predictive Analysis
    
 Predict future expenses for any category
 Simple historical average × days/weeks/months model
-<p align="center"> <img src="images/prediction_page.png" alt="Prediction Page" width="600"/> </p>
+<p align="center"> <img src="/assets/images/prediction page.png" alt="Prediction Page" width="600"/> </p>
 
 Prediction Formula:
 
@@ -64,7 +63,7 @@ Predicted Expense=Average Daily Expense×Number of Days (or Weeks/Months)
    
 Add expenses matching existing categories
 Ensures data consistency with CSV-imported categories
-<p align="center"> <img src="images/expense_input.png" alt="Manual Expense Input" width="600"/> </p>
+<p align="center"> <img src="/assets/images/add expense.png" alt="Manual Expense Input" width="600"/> </p>
 
 Technologies Used
 
